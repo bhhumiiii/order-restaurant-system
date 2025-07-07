@@ -12,11 +12,11 @@ A simple Python project that allows users to place food orders from a menu, see 
 - Shows the most ordered items
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone the repository
 2. Open terminal or command prompt
